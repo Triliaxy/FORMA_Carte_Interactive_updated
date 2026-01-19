@@ -1,0 +1,59 @@
+a(onclick="genericdropDownSeconde('ConstructionBTP')" class="Button") -Construction, BTP-
+div(id="ConstructionBTP")
+    each item in secteurs['CONSTRUCTION / BATIMENT TRAVAUX PUBLICS']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Automobile')" class="Button") -Automobile, transport, logistique-
+div(id="Automobile")
+    each item in secteurs['AUTOMOBILE / TRANSPORT / LOGISTIQUE']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Industrie')" class="Button") -Industrie, technologie-
+div(id="Industrie")
+    each item in secteurs['INDUSTRIE & TECHNOLOGIE']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Sante')" class="Button") -Santé, Social, Service à la personne-
+div(id="Sante")
+    each item in secteurs['SANTE_SOCIAL_SERVICE a la PERSONNE']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Droit')" class="Button") -Droit, gestion, finance, assurance-
+div(id="Droit")
+    each item in secteurs['DROIT / GESTION / FINANCE / ASSURANCE']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Hotellerie')" class="Button") -Hôtellerie, restauration, tourisme, sport-
+div(id="Hotellerie")
+    each item in secteurs['HOTELLERIE / RESTAURATION / TOURISME / SPORT']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Commerce')" class="Button") -Commerce et immobilier-
+div(id="Commerce")
+    each item in secteurs['COMMERCE_IMMOBILIER']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Agriculture')" class="Button") -Agriculture, agroalimentaire, nature, environnement-
+div(id="Agriculture")
+    each item in secteurs['AGRICULTURE/AGROALIMENTAIRE/NATURE/ENVIRONNEMENT']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Defense')" class="Button") -Défense, sécurité-
+div(id="Defense")
+    each item in secteurs['DEFENSE / SECURITE']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Communication')" class="Button") -Communication, art, service numérique-
+div(id="Communication")
+    each item in secteurs['COMMUNICATION_ART_SERVICE NUMERIQUE']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('Formation')" class="Button") -Formation, Education-
+div(id="Formation")
+    each item in secteurs['FORMATION_EDUCATION']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}
+
+a(onclick="genericdropDownSeconde('MFR')" class="Button") -MFR-
+div(id="MFR")
+    each item in secteurs['MFR']
+        a(href="#" onclick="handleDropdownClick" data-stand=item.Emplacements) #{item.Nom}

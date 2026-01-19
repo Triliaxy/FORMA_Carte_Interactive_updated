@@ -1,0 +1,1 @@
+todo : régler les bugs dans dropdown.js et css : la dd principale ne s’ouvre pas et possibles autres problèmes et conflits

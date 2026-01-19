@@ -1,25 +1,5 @@
-# FORMA - Carte Interactive
+Objectif : générer les dropdowns côté serveur via un format de templating
 
-Ce dépot contient les différentes versions de la carte intéractive du forum FORMA de 2025 ( Forum des Métiers d’Avenir )
+État actuel : Non fonctionnel, projet en suspend depuis une durée trop élevé, à recommencer
 
-## 👨‍💻 L'équipe de développement
-
-**Maxime DREZET** - *Étudiant*
-* 🎨⚙️ **Responsable CSS, développement**
-* Contributions : Algorithmes JS, Structure HTML
-* 📧 [drezetmaxime67@gmail.com](mailto:drezetmaxime67@gmail.com)
-
-**Rémy GONZALEZ PAULO (@Triliaxy)** - *Étudiant en BUT INFO*
-* ⚙️ **Développement**
-* Contributions : Algorithmes JS, Structure HTML, Structure de données
-* 📧 [remy.gonzalezpaulo@gmail.com](mailto:remy.gonzalezpaulo@gmail.com)
-
-**Claire MICHAUT** - *Étudiante*
-* 💻 **Développement**
-* Contributions : Structure HTML, Algorithmes JS, Structure de données
-* 📧 [claire.michaut74@gmail.com](mailto:claire.michaut74@gmail.com)
-
-**Amori NOVAIS** - *Étudiant*
-* 🗃️ **Gestion des données**
-* Contributions : Structure de données
-* 📧 [amorinovais@gmail.com](mailto:amorinovais@gmail.com)
+passer le js en ts pour une meilleure maintenance ?
