@@ -1,6 +1,6 @@
 # FORMA - Carte Interactive
 
-Ce dépot contient les différentes versions de la carte intéractive du forum FORMA ( Forum des Métiers d’Avenir )
+Ce dépot contient les différentes versions de la carte intéractive du forum FORMA de 2025 ( Forum des Métiers d’Avenir )
 
 ## 👨‍💻 L'équipe de développement
 
@@ -9,7 +9,7 @@ Ce dépot contient les différentes versions de la carte intéractive du forum F
 * Contributions : Algorithmes JS, Structure HTML
 * 📧 [drezetmaxime67@gmail.com](mailto:drezetmaxime67@gmail.com)
 
-**Rémy GONZALEZ PAULO** - *Étudiant en BUT INFO*
+**Rémy GONZALEZ PAULO (@Triliaxy)** - *Étudiant en BUT INFO*
 * ⚙️ **Développement**
 * Contributions : Algorithmes JS, Structure HTML, Structure de données
 * 📧 [remy.gonzalezpaulo@gmail.com](mailto:remy.gonzalezpaulo@gmail.com)
